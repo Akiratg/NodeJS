@@ -1,0 +1,22 @@
+{
+  "name": "listanombres",
+  "version": "1.0.0",
+  "description": "Practica de lista de nombres dados por el usuario.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Akiratg/NodeJS.git"
+  },
+  "author": "Akiratg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akiratg/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Akiratg/NodeJS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
