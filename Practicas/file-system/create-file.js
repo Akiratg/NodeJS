@@ -3,6 +3,6 @@
 
 
 // // con esto se crea un archivo y le mete el contenido que quieras
-//   fs.writeFileSync('hola.txt', 'Hola Koders!');
+  fs.writeFileSync('hola.txt', 'Hola Koders!');
 
-fs.readFileSync('<hola.txt>');
+fs.readFileSync('<hola.txt>'); 
